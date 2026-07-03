@@ -1,0 +1,8 @@
+WIDTH = 1024
+HEIGHT = 768
+
+DECK IMAGE = MonstersDeck
+BACKGROUND = 1-Dice.jpg
+SOUND = ON
+TEXT = OFF
+HUD = OFF

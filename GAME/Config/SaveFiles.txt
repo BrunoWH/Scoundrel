@@ -1,0 +1,11 @@
+Slot, Name, Score
+Slot1, Empty, null
+Slot2, Empty, null
+Slot3, Empty, null
+Slot4, Empty, null
+Slot5, Empty, null
+Slot6, Empty, null
+Slot7, Empty, null
+Slot8, Empty, null
+Slot9, Empty, null
+Slot10, Empty, null

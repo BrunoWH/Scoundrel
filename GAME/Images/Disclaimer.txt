@@ -1,0 +1,22 @@
+You can use you own images by replacing the images here with the EXACT same name.
+You can also use custom deck images. To do that, just:
+1 - Create a CustomDeck #Must have 'Deck' in the name folder, or it won't recognize!
+2 - Add all the cards and the back of the card image. Make sure the name of the cards are the 
+same as the ones used in the default decks #they are Always the same names.
+
+#Note: not every card of a deck is used. You can use check the ones NOT used in the _NotUsed folder.
+
+------------------------------------------
+The images used here were from open source websites or made by hand:
+
+Heart - OpenGameArt.Org
+GameOver - created by the Author
+YouWin - created by the Author
+Title - created by the Author
+
+Blue/Red Deck - OpenGameArt.Org
+Blue/Red Card Back - Freepik.com
+Medieval Deck -
+Monsters Deck -
+
+-------------------------------------------

@@ -1,0 +1,7 @@
+All of these backgrounds are free for use and were downloaded from pixabay.com
+
+To use a custom Background, just use past it in this folder with the following text:
+
+'Number-Name.jpg'
+
+EX: 6-Forest.jpg
